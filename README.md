@@ -3,6 +3,6 @@ Hi, am Lorenz, hobby game dev, web wizard and casual Neovim enjoyer. I love to e
 
 ## Links
 
-- [lommix.de]("https://lommix.de") - My personal homepage and blog.
-- [Youtube]("https://www.youtube.com/channel/UCd1BUXaUHWnnNLWknIgxFHg") - Devlogs (rare)
-- [wichtelbot.com]("https://www.wichtelbot.com") - Hosted version of my [wichtelbot]("https://github.com/lommix")
+- [lommix.de](https://lommix.de) - My personal homepage and blog.
+- [Youtube](https://www.youtube.com/channel/UCd1BUXaUHWnnNLWknIgxFHg) - Devlogs (rare)
+- [wichtelbot.com](https://www.wichtelbot.com) - Hosted version of my [wichtelbot]("https://github.com/lommix")
