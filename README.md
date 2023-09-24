@@ -1,4 +1,4 @@
-Hi, am Lorenz, hobby game dev, web wizard and casual Neovim enjoyer. I love to explore and learn new things. On this site I share all my open source and recreational projects.
+Hi, I am Lorenz, hobby game dev, web wizard and casual Vim enjoyer. I love to explore and learn new things. On this site I share all my open source and recreational projects.
 
 
 ## Links
