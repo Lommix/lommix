@@ -3,10 +3,11 @@
 hobby game dev, web wizard and casual Vim enjoyer.
 I love to explore and learn new things. On this site I share all my open source and recreational projects.
 
-I learned hardware before software and somehow ended up in web.
 
 ![My childhood](assets/mcu_teens.jpg)
 (ddr sdram display driver + vusb avr programmer)
+
+I learned hardware before software and somehow ended up in web.
 
 ## Links
 
