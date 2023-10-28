@@ -1,13 +1,7 @@
 #### Hi, I am Lorenz,
 
-hobby game dev, web wizard and casual Vim enjoyer.
-I love to explore and learn new things. On this site I share all my open source and recreational projects.
-
-
-![My childhood](assets/mcu_teens.jpg)
-(ddr sdram display driver + vusb avr programmer)
-
-I learned hardware before software and somehow ended up in web.
+My name is Lorenz, I am a web/game developer from Germany.
+Driven by passion and curiosity, I am always eager to learn new things and explore.
 
 ## Links
 
