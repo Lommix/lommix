@@ -1,6 +1,6 @@
 Hi, I am Lorenz, a web/game developer from Germany.
 
-my current web goat: Nginx -> Axum -> Maud -> Htmx
+My current web goat: Nginx -> Axum -> Maud -> Htmx
 
 Gamedev : Bevy Aseprite Blender
 
