@@ -4,9 +4,7 @@ My current web goat: Nginx -> Axum -> Maud -> Htmx
 
 Gamedev : Bevy Aseprite Blender
 
-*... Arch btw*
-
----
+### *... Arch btw*
 
 #### [lommix.de](https://lommix.de)
 #### [wichtelbot.com](https://wichtelbot.com)
