@@ -6,7 +6,7 @@ Gamedev : Bevy Aseprite Blender
 
 ### *... Arch btw*
 
-#### [lommix.de](https://lommix.de)
+#### [lommix.com](https://lommix.com)
 #### [wichtelbot.com](https://wichtelbot.com)
 #### [youtube](https://www.youtube.com/channel/UCd1BUXaUHWnnNLWknIgxFHg)
 
