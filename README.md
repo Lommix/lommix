@@ -9,8 +9,3 @@ Gamedev : Bevy Aseprite Blender
 #### [lommix.com](https://lommix.com)
 #### [wichtelbot.com](https://wichtelbot.com)
 #### [youtube](https://www.youtube.com/channel/UCd1BUXaUHWnnNLWknIgxFHg)
-
----
-#### Saas (german)
-
-#### [evilreader.de](https://evilreader.de)
