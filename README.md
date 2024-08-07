@@ -1,10 +1,11 @@
-Hi, I am Lorenz, a passionate software developer from Germany. I enjoy Gamedev and Web, primarly in my favorite language Rust.
+Hi, I am Lorenz, a passionate software developer from Germany. I enjoy Gamedev and Web, primarly in my favorite language Rust, sometimes Go and of course JS/HTML/CSS for anything frontend related.
 
-My current web goat: Nginx -> Axum -> Maud -> Htmx
+I also very much enjoy graphics programming, networking and anything Linux.
 
-For gamedev : Bevy Aseprite Blender
+My current web goat: Nginx -> Docker -> Axum -> Maud -> Htmx
+For gamedev : Webgpu Bevy Asepite Blender
 
-You can play some of my games on my website.
+Checkout out my Blog for some Game demos in Webassambly.
 
 #### [lommix.com](https://lommix.com)
 #### [wichtelbot.com](https://wichtelbot.com)
