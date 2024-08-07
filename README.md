@@ -3,7 +3,8 @@ Hi, I am Lorenz, a passionate software developer from Germany. I enjoy Gamedev a
 I also very much enjoy graphics programming, networking and anything Linux.
 
 My current web goat: Nginx -> Docker -> Axum -> Maud -> Htmx
-For gamedev : Webgpu Bevy Asepite Blender
+
+Gamedev : Webgpu Bevy Asepite Blender
 
 Checkout out my Blog for some Game demos in Webassambly.
 
