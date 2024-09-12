@@ -2,7 +2,7 @@ Hi, I am Lorenz, a passionate software developer from Germany. From GPU programm
 I enjoy it all. Primarily in my favorite language Rust, sometimes Go and maybe some JS/CSS/HTML here and there.
 
 
-My current web goat: nginx -> docker -> axum -> maud -> htmx
+My current web goat: caddy -> docker -> axum -> maud -> htmx
 
 Gamedev : webgpu bevy asepite blender
 
