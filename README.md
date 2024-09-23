@@ -7,6 +7,4 @@ My current web goat: caddy -> docker -> axum -> maud -> htmx
 Gamedev : webgpu bevy asepite blender
 
 #### [lommix.com](https://lommix.com)
-#### [wichtelbot.com](https://wichtelbot.com)
 #### [youtube](https://www.youtube.com/channel/UCd1BUXaUHWnnNLWknIgxFHg)
-#### [itch.io](https://lommix.itch.io/)
