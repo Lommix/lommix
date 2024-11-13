@@ -7,7 +7,7 @@ on my own workflow.
 
 Building something 24/7, mostly junk, checkout my blog.
 
-I believe in balance. Rust for fun, Go for money.
+I believe in balance. Rust for the brain, Go for the gain.
 
 #### [lommix.com](https://lommix.com)
 
