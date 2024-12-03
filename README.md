@@ -3,9 +3,9 @@
 Hi, I am Lorenz. I like software, math and games.
 
 I love to create tools to enforce gamification
-on my own workflow.
+on my workflow.
 
-Building something 24/7, mostly junk, checkout my blog.
+Building something 24/7
 
 I believe in balance. Rust for the brain, Go for the gain.
 
