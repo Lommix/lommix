@@ -4,7 +4,7 @@ Hi, I am Lorenz. I like software, math and games. I love to create tools to enfo
 
 Building something 24/7 is my passion. I don't complain about problems, I solve them.
 
-I believe in balance. Rust for the brain, Go for the gain.
+I believe in balance. Rust for the brain, Go for the gain and Lua to solve pain.
 
 #### [lommix.com](https://lommix.com)
 
