@@ -1,11 +1,8 @@
 ![banner](banner.svg)
 
-Hi, I am Lorenz. I like software, math and games.
+Hi, I am Lorenz. I like software, math and games. I love to create tools to enforce gamification on my workflow.
 
-I love to create tools to enforce gamification
-on my workflow.
-
-Building something 24/7
+Building something 24/7 is my passion. I don't complain about problems, I solve them.
 
 I believe in balance. Rust for the brain, Go for the gain.
 
