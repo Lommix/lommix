@@ -1,8 +1,6 @@
 ![banner](banner.svg)
 
-Hi, I'm Lorenz. Building something 24/7 is my passion. Rust for the brain, Go for the gain and Lua to solve pain.
-
-Currently exploring zig.
+Hi there. I'm Lorenz. I enjoy systems level programming in all kind of languages.
 
 #### [lommix.com](https://lommix.com)
 
